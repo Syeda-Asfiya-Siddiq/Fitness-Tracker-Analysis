@@ -33,7 +33,3 @@ Based on the analysis of 1,800+ records, the following insights were discovered:
 * [cite_start]**Heart Rate:** Max BPM, Avg_BPM, Resting_BPM[cite: 104].
 * [cite_start]**Workout Data:** Session Duration, Calories Burned, Workout Type, Frequency[cite: 107].
 
-## 🚀 How to Run
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/fitness-tracker-analysis.git](https://github.com/yourusername/fitness-tracker-analysis.git)
